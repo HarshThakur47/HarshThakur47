@@ -101,8 +101,8 @@ I enjoy building systems end-to-end — from a custom Arch-based Linux distribut
 
 <br/><br/>
 
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=HarshThakur47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats"/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=HarshThakur47&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages"/>
+<img width="49%" src="https://github-readme-stats-xi-one-33.vercel.app/api?username=HarshThakur47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats-xi-one-33.vercel.app/api/top-langs/?username=HarshThakur47&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages"/>
 
 </div>
 
