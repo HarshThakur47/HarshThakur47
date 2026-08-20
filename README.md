@@ -28,7 +28,7 @@
 
 ---
 
-## `$ whoami`
+## `👨‍💻 About Me`
 
 I'm a Computer Science & Engineering undergraduate at **Chitkara University**, graduating in **2027**.
 
